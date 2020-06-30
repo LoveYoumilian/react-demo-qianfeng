@@ -43,7 +43,7 @@ class Profile extends Component {
   render() {
     return (
       <Card
-        title="个人设置"
+        title="个人设置sss"
         bordered={false}
       >
         <Upload
